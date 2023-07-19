@@ -24,6 +24,12 @@ Python
 ## Tools 
 Jupyter Notebook
 
+## Youtube ( Demo )
+https://youtu.be/RUdZ7SZDjro
+
+## LinkedIn Post
+https://www.linkedin.com/posts/ruhaan-chowdhry-a0b029221_as-a-part-of-my-internship-withineuronai-activity-7087499682716811264-xCJ6?utm_source=share&utm_medium=member_desktop
+
 ## Conclusion
 
 -45.87% People suffering from heart disease.
